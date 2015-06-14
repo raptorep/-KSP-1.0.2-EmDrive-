@@ -4,7 +4,7 @@ It uses lots of Electric charge and a little bit of Liquid Hydrogen from the Cry
 
 Sentinel Aerospace AMP-G1 EmDrive Microwave Thruster:
 
-ISP(asl/vac): 5500/5500
+ISP(asl/vac): 4980/4980
 
 Future Plans:
 
@@ -23,3 +23,9 @@ Dependencies:
 Recommended:
 
 - TAC Life Support
+
+Updated to Alpha 0.1.1
+
+-Adjusted Thrust and Fuel Ratios to better reflect real world specs of a Gen 2 EmDrive currently under development
+
+-Improved usability for better balance 
